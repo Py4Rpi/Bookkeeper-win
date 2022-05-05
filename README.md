@@ -11,7 +11,8 @@ Hello!
 This is my pet project for Python Object Oriented Programming and Qt GUI programming practice. 
 It is bookkeeping program writen in Python 3.8 and PyQt6/PySide2 libraries and it aimed to keep
 records of books which you read. It has remarks functions which allows to make a review for each 
-added book. This project is not completed yet so it will take some time to make it run smoothly.
+added book. This particular version is writen for Windows. This project is not completed yet so
+it will take some time to make it run smoothly.
 
 ## Getting Started
 
